@@ -1,8 +1,8 @@
 参考链接：
-https://www.cnblogs.com/kl876435928/p/7155354.html
-http://blog.chinaunix.net/uid-26835604-id-3484906.html
-https://blog.csdn.net/skymanwww/article/details/63707082
-https://blog.csdn.net/wangdaoge/article/details/52512868
+https://www.cnblogs.com/kl876435928/p/7155354.html 
+http://blog.chinaunix.net/uid-26835604-id-3484906.html 
+https://blog.csdn.net/skymanwww/article/details/63707082 
+https://blog.csdn.net/wangdaoge/article/details/52512868 
 # 大概步骤
 前提：安装openvpn所需要的依赖包，并且在windows里安装客户端
 
